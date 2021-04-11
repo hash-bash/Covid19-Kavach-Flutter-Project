@@ -1,5 +1,5 @@
 # Covid19 Kavach - Flutter Project
-### Most accurate COVID-19 Tracker app and an alternative for Aarogya Setu app. It is built using Flutter and Firebase to provide rich UI and dynamic experience.
+### Most accurate COVID-19 tracker app and an alternative for Aarogya Setu app. It is built using Flutter and Firebase to provide rich UI and dynamic experience.
 
 ### Notes:
 - To run this project, Firstly create a project in Firebase and then enable `Firestore`, `Storage` and `Authentication` in the Firebase console.
