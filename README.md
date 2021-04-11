@@ -1,10 +1,11 @@
-# Covid19 Kavach Flutter Project
-### Most accurate COVID-19 Tracker app. It is built using Flutter and Firebase.
+# Covid19 Kavach - Flutter Project
+### Most accurate COVID-19 Tracker app and an alternative for Aarogya Setu app. It is built using Flutter and Firebase to provide rich UI and dynamic experience.
 
 ### Notes:
 - To run this project, Firstly create a project in Firebase and then enable `Firestore`, `Storage` and `Authentication` in the Firebase console.
-- Download your `google-services.json` file and move it to the `covid19_kavach\android\app` directory in order for this application to work.
+- Download your `google-services.json` file and move it to the `covid19_kavach/android/app` directory in order for this application to work.
 - Make sure you have proper Flutter and Android SDK installed. Checked on Flutter v2.0.4 (stable) and Dart v2.12.2.
+- Run the project using Terminal/Cmd through `flutter run --debug` or using Android Sudio.
 
 ### Features:
 - Country-wise real-time statistics of COVID cases with respect to confirmed, recovered, and deaths
@@ -19,5 +20,4 @@
 - Health questions to determine the risk of COVID-19 for the registered users
 - Password reset and rating system
 
-
-### Please contact me at domesaurabh@gmail.com for the licence to reuse or any business purposes.
+### Please contact me at domesaurabh@gmail.com for the license to reuse or any business purposes.
