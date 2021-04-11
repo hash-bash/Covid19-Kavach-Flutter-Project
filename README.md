@@ -1,5 +1,5 @@
 # Covid19 Kavach Flutter Project
-Most accurate COVID-19 Tracker app. It is built using Flutter and Firebase.
+### Most accurate COVID-19 Tracker app. It is built using Flutter and Firebase.
 
 ### Notes:
 - To run this project, Firstly create a project in Firebase and then enable `Firestore`, `Storage` and `Authentication` in the Firebase console.
@@ -20,4 +20,4 @@ Most accurate COVID-19 Tracker app. It is built using Flutter and Firebase.
 - Password reset and rating system
 
 
-## Please contact me at domesaurabh@gmail.com for the licence to reuse or any business purposes.
+### Please contact me at domesaurabh@gmail.com for the licence to reuse or any business purposes.
