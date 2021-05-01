@@ -4,8 +4,9 @@
 ### Notes:
 - To run this project, Firstly create a project in Firebase and then enable `Firestore`, `Storage` and `Authentication` in the Firebase console.
 - Download your `google-services.json` file and move it to the `covid19_kavach/android/app` directory in order for this application to work.
+- Signup using email `admin@covidkavach.com` and then login as an admin to access the admin panel.
 - Make sure you have proper Flutter and Android SDK installed. Checked on Flutter v2.0.4 (stable) and Dart v2.12.2.
-- Run the project using Terminal/Cmd through `flutter run --release` or using Android Sudio.
+- Run the project using Terminal/Cmd through `flutter run --release` or using Android Studio.
 
 ### Features:
 - Country-wise real-time statistics of COVID cases with respect to confirmed, recovered, and deaths
