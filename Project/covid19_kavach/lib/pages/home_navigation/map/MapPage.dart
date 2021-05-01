@@ -21,7 +21,7 @@ class _MapPageState extends State<MapPage> {
         children: <Widget>[
           WebView(
             initialUrl: 'https://www.trackcorona.live/map',
-            //initialUrl: 'https://www.bing.com/covid/local/india',
+            // initialUrl: 'https://www.bing.com/covid/local/india',
             javascriptMode: JavascriptMode.unrestricted,
             onWebViewCreated: (WebViewController webViewController) {
               _controller = webViewController;

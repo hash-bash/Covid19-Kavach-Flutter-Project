@@ -33,7 +33,6 @@ class _WebViewDetailsState extends State<WebViewDetails> {
     return Scaffold(
       appBar: AppBar(
         brightness: Brightness.light,
-        //make status icon color to black
         iconTheme: IconThemeData(
           color: getPrimaryColor(),
         ),

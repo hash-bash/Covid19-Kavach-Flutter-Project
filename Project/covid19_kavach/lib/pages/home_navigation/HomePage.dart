@@ -64,7 +64,7 @@ class _HomePageState extends State<HomePage> {
                       (stars == null ? '0' : stars.round().toString()) +
                       ' star(s) !');
                   if (stars != null && (stars == 4 || stars == 5)) {
-                    // if the user stars is equal to 4 or five
+                    // if the user stars is equal to four or five
                   } else {
                     // else you can redirect the user to a page in your app to tell you how you can make the app better
                   }
