@@ -16,7 +16,7 @@
 - Profile section to show the personal information of the logged-in users
 - Links to helpline number, toll-free contact and email support
 - Admin panel to fetch details of the registered users and access their answers to asked questions
-- Separate Login for users and admin with proper validations
+- Separate login for users and admin with proper validations
 - Registration for new users with profile picture and complete validations
 - Health questions to determine the risk of COVID-19 for the registered users
 - Password reset and rating system
