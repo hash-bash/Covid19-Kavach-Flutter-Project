@@ -593,7 +593,7 @@ class _OneMoreStepState extends State<OneMoreStep> {
               question8 != null &&
               question9 != null) {
             _scaffoldKey.currentState.showSnackBar(
-                SnackBar(content: Text("Please wait, signing you up!")));
+                SnackBar(content: Text("Please wait, Signing you up!")));
             try {
               await FirebaseAuth.instance
                   .createUserWithEmailAndPassword(
