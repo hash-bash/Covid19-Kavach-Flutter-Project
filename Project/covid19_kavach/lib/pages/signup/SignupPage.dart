@@ -441,7 +441,7 @@ class _SignupScreenState extends State<SignupScreen> {
                         _image)));
           } else if (genderText == null) {
             _scaffoldKey.currentState.showSnackBar(
-                SnackBar(content: Text("Please select the the gender")));
+                SnackBar(content: Text("Please select the gender.")));
           }
         },
         padding: EdgeInsets.all(15.0),
